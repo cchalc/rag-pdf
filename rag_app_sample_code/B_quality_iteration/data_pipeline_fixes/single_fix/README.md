@@ -1,1 +1,0 @@
-View the instructions for using this pipeline at http://ai-cookbook.io/nbs/5-hands-on-improve-quality-step-2-data-pipeline.html
